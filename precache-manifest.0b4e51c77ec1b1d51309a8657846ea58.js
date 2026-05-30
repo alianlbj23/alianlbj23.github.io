@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50730d4b69e29b4e13d8af331aaf419e",
+    "revision": "b6562481953be276ef0ec1a7b4ba65e2",
     "url": "/index.html"
   },
   {
-    "revision": "991e6219d7dc7104bdf8",
-    "url": "/static/css/main.c7b7a1c7.chunk.css"
+    "revision": "5f39aa3b48d49c7faab1",
+    "url": "/static/css/main.e48cd61c.chunk.css"
   },
   {
-    "revision": "37c6602859a3a6f59879",
-    "url": "/static/js/2.490a3ec1.chunk.js"
+    "revision": "703ade2607dac9317b63",
+    "url": "/static/js/2.c08c73e4.chunk.js"
   },
   {
-    "revision": "991e6219d7dc7104bdf8",
-    "url": "/static/js/main.3d45c576.chunk.js"
+    "revision": "5f39aa3b48d49c7faab1",
+    "url": "/static/js/main.462d6d77.chunk.js"
   },
   {
     "revision": "f4163cc1361175add5e6",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "bad3797865a0fde6fe985fd2b44b8554",
-    "url": "/static/media/Ashutosh_Hathidara_Resume_ML.bad37978.pdf"
+    "revision": "f0daef756bb50a20139c77b71de07a34",
+    "url": "/static/media/Devin_Tseng_CV.f0daef75.pdf"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -50,6 +50,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b5c77a6aed75cdad9489effd0d5ea411",
     "url": "/static/media/GoogleSans-Regular.b5c77a6a.ttf"
+  },
+  {
+    "revision": "53b632205db16049739106573e888550",
+    "url": "/static/media/Hiwin_logo.svg-Photoroom.53b63220.png"
+  },
+  {
+    "revision": "5c2386be7367b2893347468c6484d612",
+    "url": "/static/media/MERCK.5c2386be.JPG"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -98,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3e23ca14e7a7c8a7b63d255466749000",
     "url": "/static/media/developerActivity.3e23ca14.svg"
+  },
+  {
+    "revision": "9571fdae5d9025826bdceaacc3c5c7a8",
+    "url": "/static/media/devin_animate.9571fdae.jpg"
   },
   {
     "revision": "63f707f224c8a842ac928c36e3be879a",
@@ -268,6 +280,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nptel_logo.95a12a2b.png"
   },
   {
+    "revision": "55b6c4eb21905e4dab780cf6b6ea68ea",
+    "url": "/static/media/paia-logo-white.55b6c4eb.svg"
+  },
+  {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
     "url": "/static/media/portfolio.414dfbd9.gif"
   },
@@ -286,6 +302,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "/static/media/stanford_logo.2c497738.png"
+  },
+  {
+    "revision": "5fe561700a2f5a388b6e10e3b18f00b8",
+    "url": "/static/media/taica.5fe56170.png"
   },
   {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
