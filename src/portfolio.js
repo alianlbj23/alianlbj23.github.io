@@ -300,7 +300,7 @@ const degrees = {
       title: "National Cheng Kung University (NCKU), Taiwan",
       subtitle:
         "M.S. in Department of Computer Science and Information Engineering",
-      logo_path: "ncku_logo_official.jpg",
+      logo_path: "ncku-logo1.jpg",
       alt_name: "National Cheng Kung University",
       duration: "Graduated",
       descriptions: [
