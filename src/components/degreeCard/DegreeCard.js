@@ -13,7 +13,7 @@ class DegreeCard extends Component {
             <div className="card-img">
               <img
                 className={`degree-logo ${
-                  degree.logo_path === "ncku.png" ? "degree-logo-nkust" : ""
+                  degree.logo_path === "ncku2.png" ? "degree-logo-nkust" : ""
                 }`}
                 src={require(`../../assets/images/${degree.logo_path}`)}
                 alt={degree.alt_name}

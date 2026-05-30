@@ -326,7 +326,7 @@ const degrees = {
       title:
         "National Kaohsiung University of Science and Technology (NKUST), Taiwan",
       subtitle: "B.S. in Department of Computer and Communication Engineering",
-      logo_path: "ncku.png",
+      logo_path: "ncku2.png",
       alt_name: "National Kaohsiung University of Science and Technology",
       duration: "Graduated",
       descriptions: [
