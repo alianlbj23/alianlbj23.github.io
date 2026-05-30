@@ -71,33 +71,35 @@ const skills = {
   data: [
     {
       title: "Robotics & Digital Twin",
-      fileName: "DataScienceImg",
+      fileName: "RoboticsImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Expertise in ROS (Robot Operating System) for robotic system development and simulation",
+        "⚡ Experienced with Docker containerization for reproducible robotic environments",
+        "⚡ Proficient in Python for robotics algorithms, computer vision, and automation",
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          skillName: "ROS",
+          fontAwesomeClassname: "simple-icons:ros",
           style: {
             backgroundColor: "white",
-            color: "#D00000",
+            color: "#22314E",
           },
         },
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
+          skillName: "Linux",
+          fontAwesomeClassname: "ion-logo-linux",
           style: {
             backgroundColor: "transparent",
+            color: "#FCC624",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            backgroundColor: "white",
+            color: "#2496ED",
           },
         },
         {
@@ -107,10 +109,6 @@ const skills = {
             backgroundColor: "transparent",
             color: "#3776AB",
           },
-        },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
         },
       ],
     },

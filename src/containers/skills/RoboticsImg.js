@@ -7,7 +7,7 @@ export default class RoboticsImg extends Component {
       <svg
         version="1.1"
         xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 500 500"
+        viewBox="100 80 310 340"
         width="1120"
         height="829.80067"
         preserveAspectRatio="xMidYMid meet"
