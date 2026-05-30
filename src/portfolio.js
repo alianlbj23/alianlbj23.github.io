@@ -73,7 +73,7 @@ const skills = {
       title: "Robotics & Digital Twin",
       fileName: "RoboticsImg",
       skills: [
-        "⚡ Expertise in ROS (Robot Operating System) for robotic system development and simulation",
+        "⚡ Building robotics systems with ROS 2, simulation, and Digital Twin workflows",
         "⚡ Experienced with Docker containerization for reproducible robotic environments",
         "⚡ Proficient in Python for robotics algorithms, computer vision, and automation",
       ],
@@ -88,10 +88,9 @@ const skills = {
         },
         {
           skillName: "Linux",
-          fontAwesomeClassname: "simple-icons:linux",
+          fontAwesomeClassname: "logos-linux-tux",
           style: {
             backgroundColor: "transparent",
-            color: "#FCC624",
           },
         },
         {
@@ -108,6 +107,22 @@ const skills = {
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Unity",
+          fontAwesomeClassname: "simple-icons:unity",
+          style: {
+            backgroundColor: "transparent",
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Isaac Sim",
+          fontAwesomeClassname: "simple-icons:nvidia",
+          style: {
+            backgroundColor: "transparent",
+            color: "#76B900",
           },
         },
       ],
