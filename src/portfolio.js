@@ -473,7 +473,7 @@ const experience = {
           duration: "Apr 2025 - Dec 2025",
           location: "Tainan, Taiwan",
           description:
-            "Focused on ROS development, autonomous vehicle systems, and firmware development and applications for robotic arms.",
+            "Focused on ROS-based development, autonomous vehicle systems, AI-powered robotics applications, and firmware development for robotic arms.",
           color: "#000000",
         },
         {
@@ -481,18 +481,18 @@ const experience = {
           company: "Merck",
           company_url: "https://www.merckgroup.com/en",
           logo_path: "MERCK.JPG",
-          duration: "June 2022 - Aug 2022",
+          duration: "July 2022 - September 2022",
           location: "Hsinchu, Taiwan",
           description:
             "Focused on SCADA machine data automation, factory energy reporting with Power BI dashboards, and employee training application development.",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
+          title: "Quality Control Specialist Intern",
+          company: "Magnate Technology Co.,Ltd",
+          company_url: "https://www.maicl.com/",
+          logo_path: "magnate.png",
+          duration: "July 2018 - September 2018",
           location: "Pune, Maharashtra",
           description:
             "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
