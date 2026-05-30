@@ -300,7 +300,7 @@ const degrees = {
       title: "National Cheng Kung University (NCKU), Taiwan",
       subtitle:
         "M.S. in Department of Computer Science and Information Engineering",
-      logo_path: "ncku_logo.png",
+      logo_path: "ncku_logo_official.jpg",
       alt_name: "National Cheng Kung University",
       duration: "Graduated",
       descriptions: [
@@ -321,6 +321,20 @@ const degrees = {
         "⚡ Advisor: 近藤徹 (Toru Kondo).",
       ],
       website_link: "https://www.hiroshima-u.ac.jp/en",
+    },
+    {
+      title:
+        "National Kaohsiung University of Science and Technology (NKUST), Taiwan",
+      subtitle: "B.S. in Department of Computer and Communication Engineering",
+      logo_path: "",
+      alt_name: "National Kaohsiung University of Science and Technology",
+      duration: "Graduated",
+      descriptions: [
+        "⚡ Graduated with a B.S. from the Department of Computer and Communication Engineering, National Kaohsiung University of Science and Technology.",
+        "⚡ Advisor: 曾士桓 (Shih-Huan Tseng).",
+        "⚡ Capstone Project: MMSE-Based Cognitive Stimulation Game System with Pepper Robot.",
+      ],
+      website_link: "https://www.nkust.edu.tw/",
     },
   ],
 };
