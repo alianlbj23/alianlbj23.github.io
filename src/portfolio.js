@@ -194,59 +194,45 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
+          skillName: "C",
+          fontAwesomeClassname: "simple-icons:c",
           style: {
-            color: "#4285F4",
+            color: "#A8B9CC",
           },
         },
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "C++",
+          fontAwesomeClassname: "simple-icons:cplusplus",
           style: {
-            color: "#FF9900",
+            color: "#00599C",
           },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
+          skillName: "Arduino",
+          fontAwesomeClassname: "simple-icons:arduino",
           style: {
-            color: "#0089D6",
+            color: "#00979D",
           },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
+          skillName: "Embedded Systems",
+          fontAwesomeClassname: "mdi:chip",
           style: {
-            color: "#FFCA28",
+            color: "#6C63FF",
           },
         },
         {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
+          skillName: "PlatformIO",
+          fontAwesomeClassname: "simple-icons:platformio",
           style: {
-            color: "#336791",
+            color: "#FF6C37",
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
+          skillName: "micro-ROS",
+          fontAwesomeClassname: "simple-icons:ros",
           style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
+            color: "#22314E",
           },
         },
       ],
