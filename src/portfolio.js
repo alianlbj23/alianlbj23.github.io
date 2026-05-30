@@ -326,11 +326,12 @@ const degrees = {
       title:
         "National Kaohsiung University of Science and Technology (NKUST), Taiwan",
       subtitle: "B.S. in Department of Computer and Communication Engineering",
-      logo_path: "",
+      logo_path: "ncku.png",
       alt_name: "National Kaohsiung University of Science and Technology",
       duration: "Graduated",
       descriptions: [
         "⚡ Graduated with a B.S. from the Department of Computer and Communication Engineering, National Kaohsiung University of Science and Technology.",
+        "⚡ Identity Mark: A018 (English abbreviation) - NKUST.",
         "⚡ Advisor: 曾士桓 (Shih-Huan Tseng).",
         "⚡ Capstone Project: MMSE-Based Cognitive Stimulation Game System with Pepper Robot.",
       ],
