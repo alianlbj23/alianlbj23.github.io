@@ -11,7 +11,7 @@ const seo = {
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Devin Tseng Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
+  title: "Devin Tseng",
   logo_name: "AshutoshHathidara",
   nickname: "layman_brother",
   subTitle:
