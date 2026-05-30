@@ -617,7 +617,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects focus on Digital Twin systems, AI robotics, and multi-robot collaboration, integrating simulation, computer vision, ROS2, and embedded platforms to build intelligent robotic applications.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -637,11 +637,13 @@ const publications = {
       url: "https://arxiv.org/abs/2307.00653",
     },
     {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
+      id:
+        "Coordinated Control of Multiple Robots Using ROS2 and a Unity-Based Digital Twin Environment",
+      name:
+        "Coordinated Control of Multiple Robots Using ROS2 and a Unity-Based Digital Twin Environment",
       createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
+      description: "ROS2 and Unity digital twin multi-robot control project.",
+      url: "https://github.com/alianlbj23",
     },
     {
       id: "consistency-models",
