@@ -82,13 +82,13 @@ const skills = {
           skillName: "ROS",
           fontAwesomeClassname: "simple-icons:ros",
           style: {
-            backgroundColor: "white",
+            backgroundColor: "transparent",
             color: "#22314E",
           },
         },
         {
           skillName: "Linux",
-          fontAwesomeClassname: "ion-logo-linux",
+          fontAwesomeClassname: "simple-icons:linux",
           style: {
             backgroundColor: "transparent",
             color: "#FCC624",
@@ -98,13 +98,13 @@ const skills = {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
           style: {
-            backgroundColor: "white",
+            backgroundColor: "transparent",
             color: "#2496ED",
           },
         },
         {
           skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          fontAwesomeClassname: "simple-icons:python",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
