@@ -41,6 +41,11 @@
   border-radius: 50%;
 }
 
+.degree-logo-nkust {
+  transform: scale(0.88);
+  object-position: center 42%;
+}
+
 .body-header {
   max-width: inherit;
   display: flex;

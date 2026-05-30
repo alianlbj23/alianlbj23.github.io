@@ -12,7 +12,9 @@ class DegreeCard extends Component {
           <Flip left duration={2000}>
             <div className="card-img">
               <img
-                className="degree-logo"
+                className={`degree-logo ${
+                  degree.logo_path === "ncku.png" ? "degree-logo-nkust" : ""
+                }`}
                 src={require(`../../assets/images/${degree.logo_path}`)}
                 alt={degree.alt_name}
               />
