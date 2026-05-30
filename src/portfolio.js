@@ -657,9 +657,9 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "devin_animate.jpg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "Feel free to reach out. I specialize in robotics system development and AI applications.",
   },
   blogSection: {
     title: "Blogs",
