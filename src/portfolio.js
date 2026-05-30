@@ -458,7 +458,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked on robotics and digital twin development, focusing on ROS-based robot control, Unity simulation, NVIDIA Isaac Sim, Docker-based development environments, and AI-based object recognition. I enjoy building systems that connect virtual and physical robots, and I am especially interested in robotics, computer vision, and the latest AI technologies.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -466,25 +466,25 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Machine Learning Engineer",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "June 2023 - Present",
-          location: "San Jose, CA, USA",
+          title: "Robotics Software Engineer",
+          company: "PAIA",
+          company_url: "https://app.paia-arena.com/",
+          logo_path: "paia-logo-white.svg",
+          duration: "Apr 2025 - Dec 2025",
+          location: "Tainan, Taiwan",
           description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+            "Focused on ROS development, autonomous vehicle systems, and firmware development and applications for robotic arms.",
           color: "#000000",
         },
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          title: "Computer-Integrated Manufacturing(CIM) Intern",
+          company: "Merck",
+          company_url: "https://www.merckgroup.com/en",
+          logo_path: "MERCK.JPG",
+          duration: "June 2022 - Aug 2022",
+          location: "Hsinchu, Taiwan",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Focused on SCADA machine data automation, factory energy reporting with Power BI dashboards, and employee training application development.",
           color: "#0879bf",
         },
         {
@@ -512,7 +512,7 @@ const experience = {
       ],
     },
     {
-      title: "Internships",
+      title: "Competition Participation",
       experiences: [
         {
           title: "Machine Learning Intern",
