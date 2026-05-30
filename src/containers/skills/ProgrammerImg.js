@@ -3,7 +3,6 @@ import programmer from "../../assets/images/programmer.svg";
 
 export default class ProgrammerImg extends Component {
   render() {
-    const theme = this.props.theme;
     return (
       <img
         src={programmer}

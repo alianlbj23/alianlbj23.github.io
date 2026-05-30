@@ -3,7 +3,6 @@ import firmware from "../../assets/images/firware.svg";
 
 export default class FirmwareImg extends Component {
   render() {
-    const theme = this.props.theme;
     return (
       <img
         src={firmware}
