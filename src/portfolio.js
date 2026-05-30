@@ -71,7 +71,7 @@ const skills = {
   data: [
     {
       title: "Robotics & Digital Twin",
-      fileName: "RoboticsImg",
+      fileName: "programmer",
       skills: [
         "⚡ Robot development based on ROS systems",
         "⚡ Digital twin development using Unity and NVIDIA Isaac Sim",
@@ -183,97 +183,14 @@ const skills = {
         },
       ],
     },
-    // -----AI
-    // {
-    //   title: "Full Stack Development",
-    //   fileName: "FullStackImg",
-    //   skills: [
-    //     "⚡ Building responsive website front end using React-Redux",
-    //     "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-    //     "⚡ Creating application backend in Node, Express & Flask",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "HTML5",
-    //       fontAwesomeClassname: "simple-icons:html5",
-    //       style: {
-    //         color: "#E34F26",
-    //       },
-    //     },
-    //     {
-    //       skillName: "CSS3",
-    //       fontAwesomeClassname: "fa-css3",
-    //       style: {
-    //         color: "#1572B6",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Sass",
-    //       fontAwesomeClassname: "simple-icons:sass",
-    //       style: {
-    //         color: "#CC6699",
-    //       },
-    //     },
-    //     {
-    //       skillName: "JavaScript",
-    //       fontAwesomeClassname: "simple-icons:javascript",
-    //       style: {
-    //         backgroundColor: "#000000",
-    //         color: "#F7DF1E",
-    //       },
-    //     },
-    //     {
-    //       skillName: "ReactJS",
-    //       fontAwesomeClassname: "simple-icons:react",
-    //       style: {
-    //         color: "#61DAFB",
-    //       },
-    //     },
-    //     {
-    //       skillName: "NodeJS",
-    //       fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
-    //       style: {
-    //         color: "#339933",
-    //       },
-    //     },
-    //     {
-    //       skillName: "NPM",
-    //       fontAwesomeClassname: "simple-icons:npm",
-    //       style: {
-    //         color: "#CB3837",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Yarn",
-    //       fontAwesomeClassname: "simple-icons:yarn",
-    //       style: {
-    //         color: "#2C8EBB",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Gatsby",
-    //       fontAwesomeClassname: "simple-icons:gatsby",
-    //       style: {
-    //         color: "#663399",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Flutter",
-    //       fontAwesomeClassname: "simple-icons:flutter",
-    //       style: {
-    //         color: "#02569B",
-    //       },
-    //     },
-    //   ],
-    // },
     {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
+      title: "Robot Firmware & Micro Controller",
+      fileName: "FirwareImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Developing robot firmware for micro controller based hardware systems",
+        "⚡ Working with motor control, sensor communication, and embedded control logic",
+        "⚡ Bridging low-level firmware with higher-level robotics software and ROS 2",
+        "⚡ Integrating AI models with micro controller and edge computing workflows",
       ],
       softwareSkills: [
         {
@@ -330,45 +247,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:kubernetes",
           style: {
             color: "#326CE5",
-          },
-        },
-      ],
-    },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
           },
         },
       ],
