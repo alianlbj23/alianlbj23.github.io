@@ -73,9 +73,11 @@ const skills = {
       title: "Robotics & Digital Twin",
       fileName: "RoboticsImg",
       skills: [
-        "⚡ Building robotics systems with ROS 2, simulation, and Digital Twin workflows",
-        "⚡ Experienced with Docker containerization for reproducible robotic environments",
-        "⚡ Proficient in Python for robotics algorithms, computer vision, and automation",
+        "⚡ Robot development based on ROS systems",
+        "⚡ Digital twin development using Unity and NVIDIA Isaac Sim",
+        "⚡ Containerized robot control environment development using Docker",
+        "⚡ 1:1 robot modeling using Fusion 360",
+        "⚡ Multi-robot collaboration and robotic arm control using inverse kinematics",
       ],
       softwareSkills: [
         {
@@ -125,137 +127,145 @@ const skills = {
             color: "#76B900",
           },
         },
+        {
+          skillName: "Fusion 360",
+          fontAwesomeClassname: "simple-icons:autodesk",
+          style: {
+            backgroundColor: "transparent",
+            color: "#E4122C",
+          },
+        },
+      ],
+    },
+    // -----AI
+    {
+      title: "AI & Computer Vision",
+      fileName: "FullStackImg",
+      skills: [
+        "⚡ Applying AI and computer vision to robotics perception and automation tasks",
+        "⚡ Processing camera and sensor data for detection, tracking, and decision support",
+        "⚡ Building practical AI workflows that connect software with real-world systems",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "white",
+            color: "#D00000",
+          },
+        },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "logos-pytorch",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Deeplearning",
+          imageSrc: "deeplearning_ai_logo.png",
+        },
       ],
     },
     // -----AI
     // {
-    //   title: "Robotics & Digital Twin",
-    //   fileName: "DataScienceImg",
+    //   title: "Full Stack Development",
+    //   fileName: "FullStackImg",
     //   skills: [
-    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-    //     "⚡ Experience of working with Computer Vision and NLP projects",
-    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+    //     "⚡ Building responsive website front end using React-Redux",
+    //     "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
+    //     "⚡ Creating application backend in Node, Express & Flask",
     //   ],
     //   softwareSkills: [
     //     {
-    //       skillName: "Tensorflow",
-    //       fontAwesomeClassname: "logos-tensorflow",
+    //       skillName: "HTML5",
+    //       fontAwesomeClassname: "simple-icons:html5",
     //       style: {
-    //         backgroundColor: "transparent",
+    //         color: "#E34F26",
     //       },
     //     },
     //     {
-    //       skillName: "Keras",
-    //       fontAwesomeClassname: "simple-icons:keras",
+    //       skillName: "CSS3",
+    //       fontAwesomeClassname: "fa-css3",
     //       style: {
-    //         backgroundColor: "white",
-    //         color: "#D00000",
+    //         color: "#1572B6",
     //       },
     //     },
     //     {
-    //       skillName: "PyTorch",
-    //       fontAwesomeClassname: "logos-pytorch",
+    //       skillName: "Sass",
+    //       fontAwesomeClassname: "simple-icons:sass",
     //       style: {
-    //         backgroundColor: "transparent",
+    //         color: "#CC6699",
     //       },
     //     },
     //     {
-    //       skillName: "Python",
-    //       fontAwesomeClassname: "ion-logo-python",
+    //       skillName: "JavaScript",
+    //       fontAwesomeClassname: "simple-icons:javascript",
     //       style: {
-    //         backgroundColor: "transparent",
-    //         color: "#3776AB",
+    //         backgroundColor: "#000000",
+    //         color: "#F7DF1E",
     //       },
     //     },
     //     {
-    //       skillName: "Deeplearning",
-    //       imageSrc: "deeplearning_ai_logo.png",
+    //       skillName: "ReactJS",
+    //       fontAwesomeClassname: "simple-icons:react",
+    //       style: {
+    //         color: "#61DAFB",
+    //       },
+    //     },
+    //     {
+    //       skillName: "NodeJS",
+    //       fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
+    //       style: {
+    //         color: "#339933",
+    //       },
+    //     },
+    //     {
+    //       skillName: "NPM",
+    //       fontAwesomeClassname: "simple-icons:npm",
+    //       style: {
+    //         color: "#CB3837",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Yarn",
+    //       fontAwesomeClassname: "simple-icons:yarn",
+    //       style: {
+    //         color: "#2C8EBB",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Gatsby",
+    //       fontAwesomeClassname: "simple-icons:gatsby",
+    //       style: {
+    //         color: "#663399",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Flutter",
+    //       fontAwesomeClassname: "simple-icons:flutter",
+    //       style: {
+    //         color: "#02569B",
+    //       },
     //     },
     //   ],
     // },
-    // -----AI
-    {
-      title: "Full Stack Development",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
-      ],
-      softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-      ],
-    },
     {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
