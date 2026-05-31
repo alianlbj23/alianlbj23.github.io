@@ -3,7 +3,7 @@
     {
       "id": "coordinated-control-multiple-robots-ros2-unity-digital-twin",
       "name": "Coordinated Control of Multiple Robots Using ROS2 and a Unity-Based Digital Twin Environment",
-      "createdAt": "2023-04-13T04:18:19Z",
+      "createdAt": "2025",
       "url": "https://github.com/alianlbj23",
       "description": "Multi-robot coordinated control using ROS2 and a Unity-based digital twin environment.",
       "isFork": false,
@@ -20,103 +20,79 @@
           "name": "Python",
           "iconifyClass": "logos-python"
         }
-      ]
-    },
-    {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
+      ],
+      "youtubeLinks": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "title": "Digital Twin Demo",
+          "url": "https://www.youtube.com/watch?v=yvAFUvc2kF0"
+        },
+        {
+          "title": "Object tracking",
+          "url": "https://www.youtube.com/shorts/vKQXGYhRZxI"
+        },
+        {
+          "title": "Physical Robot Demo - 1",
+          "url": "https://www.youtube.com/watch?v=_tPlawzmEYI"
+        },
+        {
+          "title": "Physical Robot Demo - 2",
+          "url": "https://www.youtube.com/watch?v=JuAI56SjKqY"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "itri-openrb-150-dynamixel-control-system",
+      "name": "ITRI Collaboration on OpenRB-150 Dynamixel Control System",
+      "createdAt": "2026",
+      "url": "https://github.com/alianlbj23",
+      "description": "Custom Dynamixel motor control system using OpenRB-150, micro-ROS, ROS2, and a dashboard interface.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "ROS2",
+          "iconifyClass": "simple-icons:ros"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "micro-ROS",
+          "iconifyClass": "simple-icons:ros"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
+          "name": "OpenRB-150",
+          "iconifyClass": "simple-icons:arduino"
+        }
+      ],
+      "youtubeLinks": [
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "title": "Demo",
+          "url": "https://www.youtube.com/watch?v=FDimisu9xxE"
         }
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "ncku-architecture-tracked-robot-project",
+      "name": "Architecture Department Tracked Robot Project",
+      "createdAt": "2025",
+      "url": "https://github.com/alianlbj23",
+      "description": "Tracked robot system with embedded firmware drivers and ROS2/Nav2-based autonomous navigation.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "ROS2",
+          "iconifyClass": "simple-icons:ros"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Nav2",
+          "iconifyClass": "simple-icons:ros"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Embedded Systems",
+          "iconifyClass": "simple-icons:arduino"
         }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
+      ],
+      "youtubeLinks": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "title": "Demo",
+          "url": "https://www.youtube.com/watch?v=_wIn-11sIe8"
         }
       ]
     }

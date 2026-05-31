@@ -9,6 +9,12 @@ export default function GithubRepoCard({ repo, theme }) {
     win.focus();
   }
 
+  function openLinkinNewTab(event, url) {
+    event.stopPropagation();
+    var win = window.open(url, "_blank");
+    win.focus();
+  }
+
   return (
     <div className="repo-card-div" style={{ backgroundColor: theme.highlight }}>
       <Fade bottom duration={2000} distance="40px">
@@ -46,6 +52,27 @@ export default function GithubRepoCard({ repo, theme }) {
               logos={repo.languages}
             />
           </div>
+          {repo.youtubeLinks && repo.youtubeLinks.length > 0 ? (
+            <div className="repo-youtube-links">
+              {repo.youtubeLinks.map((video) => {
+                return (
+                  <button
+                    key={`${video.title}-${video.url}`}
+                    className="repo-youtube-link"
+                    onClick={(event) => openLinkinNewTab(event, video.url)}
+                    type="button"
+                  >
+                    <span
+                      className="iconify repo-youtube-icon"
+                      data-icon="simple-icons:youtube"
+                      data-inline="false"
+                    ></span>
+                    {video.title}
+                  </button>
+                );
+              })}
+            </div>
+          ) : null}
           {/* <div className="repo-stats">
           <div className="repo-left-stat">
             <span>

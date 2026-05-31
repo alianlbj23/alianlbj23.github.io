@@ -93,6 +93,37 @@
   margin-right: 0px;
 }
 
+.repo-youtube-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.repo-youtube-link {
+  align-items: center;
+  background: rgba(255, 0, 0, 0.08);
+  border: 1px solid rgba(255, 0, 0, 0.28);
+  border-radius: 6px;
+  color: #cc0000;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: "Google Sans Regular";
+  font-size: 14px;
+  font-weight: 600;
+  gap: 0.4rem;
+  line-height: 1.2;
+  padding: 0.45rem 0.65rem;
+}
+
+.repo-youtube-link:hover {
+  background: rgba(255, 0, 0, 0.14);
+}
+
+.repo-youtube-icon {
+  min-width: 16px;
+}
+
 @media (max-width: 1200px) {
   .repo-card-div {
     flex: 1 1 40%;
