@@ -74,10 +74,11 @@ const skills = {
       fileName: "programmer",
       skills: [
         "⚡ Robot development based on ROS systems",
-        "⚡ Digital twin development using Unity and NVIDIA Isaac Sim",
-        "⚡ Containerized robot control environment development using Docker",
+        "⚡ Digital twin developer(Unity, NVIDIA Isaac Sim)",
+        "⚡ Dockerized Development Environments",
         "⚡ 1:1 robot modeling using Fusion 360",
-        "⚡ Multi-robot collaboration and robotic arm control using inverse kinematics",
+        "⚡ Inverse kinematics-based robotic arm control",
+        "⚡ Multi-robot coordination",
       ],
       softwareSkills: [
         {
@@ -142,9 +143,9 @@ const skills = {
       title: "AI & Computer Vision",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Applying AI and computer vision to robotics perception and automation tasks",
-        "⚡ Processing camera and sensor data for detection, tracking, and decision support",
-        "⚡ Building practical AI workflows that connect software with real-world systems",
+        "⚡ AI-powered robotics perception and automation",
+        "⚡ Camera and sensor data processing for detection and tracking",
+        "⚡ AI Robotics System Deployment",
       ],
       softwareSkills: [
         {
@@ -188,9 +189,9 @@ const skills = {
       fileName: "FirwareImg",
       skills: [
         "⚡ Developing robot firmware for micro controller based hardware systems",
-        "⚡ Working with motor control, sensor communication, and embedded control logic",
-        "⚡ Bridging low-level firmware with higher-level robotics software and ROS 2",
-        "⚡ Integrating AI models with micro controller and edge computing workflows",
+        "⚡ Embedded motor and sensor control",
+        "⚡ micro-ROS firmware deployment for ROS2 robots",
+        "⚡ AI Deployment on Edge Devices",
       ],
       softwareSkills: [
         {
