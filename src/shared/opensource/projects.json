@@ -45,7 +45,7 @@
       "name": "ITRI Collaboration on OpenRB-150 Dynamixel Control System",
       "createdAt": "2026",
       "url": "https://github.com/alianlbj23",
-      "description": "Custom Dynamixel motor control system using OpenRB-150, micro-ROS, ROS2, and a dashboard interface.",
+      "description": "OpenRB-150, micro-ROS, ROS 2, motor control, custom dashboard",
       "isFork": false,
       "languages": [
         {
@@ -73,7 +73,7 @@
       "name": "Architecture Department Tracked Robot Project",
       "createdAt": "2025",
       "url": "https://github.com/alianlbj23",
-      "description": "Tracked robot system with embedded firmware drivers and ROS2/Nav2-based autonomous navigation.",
+      "description": "Embedded Firmware, ROS 2, Nav2",
       "isFork": false,
       "languages": [
         {
