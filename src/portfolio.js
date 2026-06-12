@@ -319,7 +319,7 @@ const degrees = {
       duration: "Exchange Student",
       descriptions: [
         "⚡ Exchange student at Hiroshima University, Graduate School of Advanced Science and Engineering.",
-        "⚡ Advisor: 近藤徹 (Toru Kondo).",
+        // "⚡ Advisor: 近藤徹 (Toru Kondo).",
       ],
       website_link: "https://www.hiroshima-u.ac.jp/en",
     },
